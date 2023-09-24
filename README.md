@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 ![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/113956397/223922199-500bdaa1-7e47-4e0a-b115-cbed759bba3f.svg)
 
-![(https://camo.githubusercontent.com/5859172b2d0854f4d70d35118ae1fbb8d92f967ea654f1bb1bdae4a346d03926/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465)]
-
 I am a computer science student at GSU and expect to graduate in 2024! I am looking to specialize in artificial intelligence and its applications in cybersecurity as a career. 
 
 I am a frequent programmer in my free time outside of academics and have worked on multiple student games in my local game development club.
