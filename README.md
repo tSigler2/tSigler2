@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 ![.Net](https://img.shields.io/badge/.net-purple?style=for-the-badge&logo=dotnet)
 
-I am a computer science student at GSU and expect to graduate in 2024! I am looking to specialize in artificial intelligence and its applications in cybersecurity as a career. 
+I am a computer science graduate from GSU and expect to graduate in 2024! I aim to write interesting and valuable software.
 
-I am a frequent programmer in my free time outside of academics and have worked on multiple student games in my local game development club.
+I am a frequent programmer in my free time and have worked on multiple games in my university's game development club.
